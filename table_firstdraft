@@ -1,0 +1,3457 @@
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Station ID</th>
+<th title="Field #2">Year</th>
+<th title="Field #3">Month</th>
+<th title="Field #4">Day</th>
+<th title="Field #5">Type</th>
+<th title="Field #6">Latitude</th>
+<th title="Field #7">Longitude</th>
+<th title="Field #8">Elevation</th>
+<th title="Field #9">Name</th>
+<th title="Field #10">County</th>
+<th title="Field #11">City</th>
+<th title="Field #12">State</th>
+<th title="Field #13">Support</th>
+<th title="Field #14">River Basin</th>
+</tr></thead>
+<tbody><tr>
+<td>AVLthr</td>
+<td align="right">1869</td>
+<td align="right">3</td>
+<td align="right">1</td>
+<td>THREADEX</td>
+<td align="right">35.431944</td>
+<td align="right">-82.5375</td>
+<td align="right">2165</td>
+<td>Asheville Area</td>
+<td>Buncombe County</td>
+<td>Asheville</td>
+<td>NC</td>
+<td> </td>
+<td>French Broad-Holston</td>
+</tr>
+<tr>
+<td>318500</td>
+<td align="right">1870</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.88472</td>
+<td align="right">-77.53861</td>
+<td align="right">35</td>
+<td>Tarboro 1 S</td>
+<td>Edgecombe County</td>
+<td>Tarboro</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Lower Tar</td>
+</tr>
+<tr>
+<td>ILMthr</td>
+<td align="right">1870</td>
+<td align="right">12</td>
+<td align="right">1</td>
+<td>THREADEX</td>
+<td align="right">34.2675</td>
+<td align="right">-77.899722</td>
+<td align="right">32</td>
+<td>Wilmington Area</td>
+<td>New Hanover County</td>
+<td>Wilmington</td>
+<td>NC</td>
+<td> </td>
+<td>Cape Fear</td>
+</tr>
+<tr>
+<td>313017</td>
+<td align="right">1871</td>
+<td align="right">11</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.05833</td>
+<td align="right">-78.85833</td>
+<td align="right">96</td>
+<td>Fayetteville Pwc</td>
+<td>Cumberland County</td>
+<td>Fayetteville</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Cape Fear</td>
+</tr>
+<tr>
+<td>316001</td>
+<td align="right">1872</td>
+<td align="right">1</td>
+<td align="right">16</td>
+<td>COOP</td>
+<td align="right">35.09611</td>
+<td align="right">-84.02389</td>
+<td align="right">1576</td>
+<td>Murphy</td>
+<td>Cherokee County</td>
+<td>Murphy</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Hiwassee</td>
+</tr>
+<tr>
+<td>313228</td>
+<td align="right">1872</td>
+<td align="right">3</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.18028</td>
+<td align="right">-83.3925</td>
+<td align="right">2125</td>
+<td>Franklin</td>
+<td>Macon County</td>
+<td>Franklin</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Little Tennessee</td>
+</tr>
+<tr>
+<td>313638</td>
+<td align="right">1875</td>
+<td align="right">3</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.64</td>
+<td align="right">-77.39833</td>
+<td align="right">32</td>
+<td>Greenville</td>
+<td>Pitt County</td>
+<td>Greenville</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Lower Tar</td>
+</tr>
+<tr>
+<td>314055</td>
+<td align="right">1877</td>
+<td align="right">2</td>
+<td align="right">23</td>
+<td>COOP</td>
+<td align="right">35.05361</td>
+<td align="right">-83.18917</td>
+<td align="right">3840</td>
+<td>Highlands</td>
+<td>Macon County</td>
+<td>Highlands</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Little Tennessee</td>
+</tr>
+<tr>
+<td>CLTthr</td>
+<td align="right">1878</td>
+<td align="right">10</td>
+<td align="right">6</td>
+<td>THREADEX</td>
+<td align="right">35.223611</td>
+<td align="right">-80.955278</td>
+<td align="right">748</td>
+<td>Charlotte Area</td>
+<td>Mecklenburg County</td>
+<td>Charlotte</td>
+<td>NC</td>
+<td> </td>
+<td>Santee</td>
+</tr>
+<tr>
+<td>315838</td>
+<td align="right">1880</td>
+<td align="right">3</td>
+<td align="right">3</td>
+<td>COOP</td>
+<td align="right">35.73083</td>
+<td align="right">-81.67167</td>
+<td align="right">1160</td>
+<td>Morganton</td>
+<td>Burke County</td>
+<td>Morganton</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Catawba</td>
+</tr>
+<tr>
+<td>RDUthr</td>
+<td align="right">1887</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>THREADEX</td>
+<td align="right">35.866667</td>
+<td align="right">-78.783333</td>
+<td align="right">435</td>
+<td>Raleigh Area</td>
+<td>Wake County</td>
+<td>Raleigh</td>
+<td>NC</td>
+<td> </td>
+<td>Neuse</td>
+</tr>
+<tr>
+<td>311677</td>
+<td align="right">1891</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.90861</td>
+<td align="right">-79.07944</td>
+<td align="right">500</td>
+<td>Chapel Hill 2 W</td>
+<td>Orange County</td>
+<td>Chapel Hill</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Haw</td>
+</tr>
+<tr>
+<td>311975</td>
+<td align="right">1891</td>
+<td align="right">3</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.41639</td>
+<td align="right">-80.60056</td>
+<td align="right">690</td>
+<td>Concord</td>
+<td>Cabarrus County</td>
+<td>Concord</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Rocky</td>
+</tr>
+<tr>
+<td>317994</td>
+<td align="right">1892</td>
+<td align="right">7</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.51639</td>
+<td align="right">-78.34583</td>
+<td align="right">150</td>
+<td>Smithfield</td>
+<td>Johnston County</td>
+<td>Smithfield</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Neuse</td>
+</tr>
+<tr>
+<td>315913</td>
+<td align="right">1892</td>
+<td align="right">10</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.33361</td>
+<td align="right">-80.98722</td>
+<td align="right">610</td>
+<td>Mt Holly 4 Ne</td>
+<td>Gaston County</td>
+<td>Mount Holly</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Catawba</td>
+</tr>
+<tr>
+<td>315123</td>
+<td align="right">1893</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">36.10278</td>
+<td align="right">-78.30389</td>
+<td align="right">260</td>
+<td>Louisburg</td>
+<td>Franklin County</td>
+<td>Louisburg</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Tar</td>
+</tr>
+<tr>
+<td>317845</td>
+<td align="right">1893</td>
+<td align="right">2</td>
+<td align="right">8</td>
+<td>COOP</td>
+<td align="right">35.31444</td>
+<td align="right">-81.53361</td>
+<td align="right">920</td>
+<td>Shelby 2 Nne</td>
+<td>Cleveland County</td>
+<td>Shelby</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Broad</td>
+</tr>
+<tr>
+<td>313969</td>
+<td align="right">1893</td>
+<td align="right">6</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">36.34806</td>
+<td align="right">-78.41194</td>
+<td align="right">480</td>
+<td>Henderson 2 Nnw</td>
+<td>Vance County</td>
+<td>Henderson</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Middle Roanoke</td>
+</tr>
+<tr>
+<td>319100</td>
+<td align="right">1893</td>
+<td align="right">7</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.55528</td>
+<td align="right">-77.07222</td>
+<td align="right">10</td>
+<td>Washington Wwtp 4w</td>
+<td>Beaufort County</td>
+<td>Washington</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Pamlico</td>
+</tr>
+<tr>
+<td>319147</td>
+<td align="right">1894</td>
+<td align="right">5</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.48667</td>
+<td align="right">-82.96833</td>
+<td align="right">2658</td>
+<td>Waynesville 1 E</td>
+<td>Haywood County</td>
+<td>Waynesville</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Pigeon</td>
+</tr>
+<tr>
+<td>315771</td>
+<td align="right">1896</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">34.97972</td>
+<td align="right">-80.52333</td>
+<td align="right">550</td>
+<td>Monroe 2 Se</td>
+<td>Union County</td>
+<td>Monroe</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Rocky</td>
+</tr>
+<tr>
+<td>314496</td>
+<td align="right">1896</td>
+<td align="right">2</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">36.41611</td>
+<td align="right">-81.42861</td>
+<td align="right">2770</td>
+<td>Jefferson 2 E</td>
+<td>Ashe County</td>
+<td>Jefferson</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper New</td>
+</tr>
+<tr>
+<td>313976</td>
+<td align="right">1898</td>
+<td align="right">6</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.32972</td>
+<td align="right">-82.44917</td>
+<td align="right">2160</td>
+<td>Hendersonville 1 Ne</td>
+<td>Henderson County</td>
+<td>Hendersonville</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper French Broad</td>
+</tr>
+<tr>
+<td>315356</td>
+<td align="right">1898</td>
+<td align="right">11</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.80361</td>
+<td align="right">-82.66583</td>
+<td align="right">2000</td>
+<td>Marshall</td>
+<td>Madison County</td>
+<td>Marshall</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper French Broad</td>
+</tr>
+<tr>
+<td>319539</td>
+<td align="right">1899</td>
+<td align="right">6</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">36.13333</td>
+<td align="right">-80.23333</td>
+<td align="right">994</td>
+<td>Winston-salem Wbas Ap</td>
+<td>Forsyth County</td>
+<td>Winston-Salem</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Yadkin</td>
+</tr>
+<tr>
+<td>318292</td>
+<td align="right">1901</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.81</td>
+<td align="right">-80.88083</td>
+<td align="right">950</td>
+<td>Statesville 2 Nne</td>
+<td>Iredell County</td>
+<td>Statesville</td>
+<td>NC</td>
+<td>NWS</td>
+<td>South Yadkin</td>
+</tr>
+<tr>
+<td>311055</td>
+<td align="right">1902</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.22833</td>
+<td align="right">-82.73583</td>
+<td align="right">2220</td>
+<td>Brevard</td>
+<td>Transylvania County</td>
+<td>Brevard</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper French Broad</td>
+</tr>
+<tr>
+<td>313555</td>
+<td align="right">1902</td>
+<td align="right">7</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">36.05028</td>
+<td align="right">-79.37278</td>
+<td align="right">660</td>
+<td>Graham 2 Ene</td>
+<td>Alamance County</td>
+<td>Graham</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Haw</td>
+</tr>
+<tr>
+<td>313630</td>
+<td align="right">1903</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">36.08333</td>
+<td align="right">-79.95</td>
+<td align="right">890</td>
+<td>Greensboro  Ap</td>
+<td>Guilford County</td>
+<td>Greensboro</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Haw</td>
+</tr>
+<tr>
+<td>310506</td>
+<td align="right">1907</td>
+<td align="right">9</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">36.16167</td>
+<td align="right">-81.87417</td>
+<td align="right">3770</td>
+<td>Banner Elk</td>
+<td>Avery County</td>
+<td>Banner Elk</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Watauga</td>
+</tr>
+<tr>
+<td>312200</td>
+<td align="right">1909</td>
+<td align="right">12</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.31167</td>
+<td align="right">-83.17472</td>
+<td align="right">2192</td>
+<td>Cullowhee</td>
+<td>Jackson County</td>
+<td>Cullowhee</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Tuckasegee</td>
+</tr>
+<tr>
+<td>312732</td>
+<td align="right">1910</td>
+<td align="right">12</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">34.60444</td>
+<td align="right">-78.64806</td>
+<td align="right">103</td>
+<td>Elizabethtown 3 Sw</td>
+<td>Bladen County</td>
+<td>Elizabethtown</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Lower Cape Fear</td>
+</tr>
+<tr>
+<td>312740</td>
+<td align="right">1913</td>
+<td align="right">3</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">36.25444</td>
+<td align="right">-80.865</td>
+<td align="right">870</td>
+<td>Elkin</td>
+<td>Surry County</td>
+<td>Elkin</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Yadkin</td>
+</tr>
+<tr>
+<td>314987</td>
+<td align="right">1915</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.40833</td>
+<td align="right">-78.82083</td>
+<td align="right">150</td>
+<td>Lillington</td>
+<td>Harnett County</td>
+<td>Lillington</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Cape Fear</td>
+</tr>
+<tr>
+<td>317924</td>
+<td align="right">1916</td>
+<td align="right">7</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.76056</td>
+<td align="right">-79.46222</td>
+<td align="right">610</td>
+<td>Siler City 2 N</td>
+<td>Chatham County</td>
+<td>Siler City</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Deep</td>
+</tr>
+<tr>
+<td>319476</td>
+<td align="right">1916</td>
+<td align="right">10</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.69389</td>
+<td align="right">-77.94556</td>
+<td align="right">110</td>
+<td>Wilson 3 Sw</td>
+<td>Wilson County</td>
+<td>Wilson</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Contentnea</td>
+</tr>
+<tr>
+<td>318744</td>
+<td align="right">1917</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.20583</td>
+<td align="right">-82.25167</td>
+<td align="right">1200</td>
+<td>Tryon</td>
+<td>Polk County</td>
+<td>Tryon</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Broad</td>
+</tr>
+<tr>
+<td>316256</td>
+<td align="right">1921</td>
+<td align="right">9</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">36.16306</td>
+<td align="right">-81.14944</td>
+<td align="right">1120</td>
+<td>North Wilkesboro</td>
+<td>Wilkes County</td>
+<td>North Wilkesboro</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Yadkin</td>
+</tr>
+<tr>
+<td>310286</td>
+<td align="right">1926</td>
+<td align="right">2</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.70444</td>
+<td align="right">-79.83778</td>
+<td align="right">870</td>
+<td>Asheboro 2 W</td>
+<td>Randolph County</td>
+<td>Asheboro</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Lower Yadkin</td>
+</tr>
+<tr>
+<td>314260</td>
+<td align="right">1927</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.895</td>
+<td align="right">-82.83111</td>
+<td align="right">1396</td>
+<td>Hot Springs</td>
+<td>Madison County</td>
+<td>Hot Springs</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper French Broad</td>
+</tr>
+<tr>
+<td>319440</td>
+<td align="right">1930</td>
+<td align="right">7</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.85278</td>
+<td align="right">-77.03056</td>
+<td align="right">20</td>
+<td>Williamston 1 E</td>
+<td>Martin County</td>
+<td>Williamston</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Lower Roanoke</td>
+</tr>
+<tr>
+<td>312837</td>
+<td align="right">1930</td>
+<td align="right">11</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.54056</td>
+<td align="right">-82.65306</td>
+<td align="right">2050</td>
+<td>Enka</td>
+<td>Buncombe County</td>
+<td>Enka</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper French Broad</td>
+</tr>
+<tr>
+<td>319457</td>
+<td align="right">1933</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">34.2675</td>
+<td align="right">-77.89972</td>
+<td align="right">33</td>
+<td>Wilmington Intl Ap</td>
+<td>New Hanover County</td>
+<td>Wilmington</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Northeast Cape Fear</td>
+</tr>
+<tr>
+<td>ECGthr</td>
+<td align="right">1934</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>THREADEX</td>
+<td align="right">36.2605806</td>
+<td align="right">-76.1745722</td>
+<td align="right">12</td>
+<td>Elizabeth City Area</td>
+<td>Pasquotank County</td>
+<td>Elizabeth City</td>
+<td>NC</td>
+<td> </td>
+<td>Albemarle</td>
+</tr>
+<tr>
+<td>311690</td>
+<td align="right">1939</td>
+<td align="right">7</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.22361</td>
+<td align="right">-80.95528</td>
+<td align="right">728</td>
+<td>Charlotte Douglas Ap</td>
+<td>Mecklenburg County</td>
+<td>Charlotte</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Catawba</td>
+</tr>
+<tr>
+<td>316805</td>
+<td align="right">1939</td>
+<td align="right">10</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.27194</td>
+<td align="right">-82.6475</td>
+<td align="right">2190</td>
+<td>Pisgah Forest 3 Ne</td>
+<td>Transylvania County</td>
+<td>Pisgah Forest</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper French Broad</td>
+</tr>
+<tr>
+<td>319675</td>
+<td align="right">1940</td>
+<td align="right">2</td>
+<td align="right">5</td>
+<td>COOP</td>
+<td align="right">36.13056</td>
+<td align="right">-80.54806</td>
+<td align="right">875</td>
+<td>Yadkinville 6 E</td>
+<td>Yadkin County</td>
+<td>Yadkinville</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Yadkin</td>
+</tr>
+<tr>
+<td>316236</td>
+<td align="right">1942</td>
+<td align="right">10</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.6625</td>
+<td align="right">-82.34694</td>
+<td align="right">2480</td>
+<td>North Fork 2</td>
+<td>Buncombe County</td>
+<td>Black Mountain</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper French Broad</td>
+</tr>
+<tr>
+<td>317069</td>
+<td align="right">1944</td>
+<td align="right">5</td>
+<td align="right">18</td>
+<td>COOP</td>
+<td align="right">35.86667</td>
+<td align="right">-78.78333</td>
+<td align="right">435</td>
+<td>Raleigh  Ap</td>
+<td>Wake County</td>
+<td>Morrisville</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Neuse</td>
+</tr>
+<tr>
+<td>316853</td>
+<td align="right">1945</td>
+<td align="right">2</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.87222</td>
+<td align="right">-76.65917</td>
+<td align="right">20</td>
+<td>Plymouth 5 E</td>
+<td>Washington County</td>
+<td>Plymouth</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Albemarle</td>
+</tr>
+<tr>
+<td>KNKT</td>
+<td align="right">1945</td>
+<td align="right">3</td>
+<td align="right">1</td>
+<td>AWOS</td>
+<td align="right">34.9026667</td>
+<td align="right">-76.881</td>
+<td align="right">28</td>
+<td>Cherry Point MCAS</td>
+<td>Craven County</td>
+<td>Cherry Point</td>
+<td>NC</td>
+<td>FAA / Local Aviation</td>
+<td>Lower Neuse</td>
+</tr>
+<tr>
+<td>310296</td>
+<td align="right">1946</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.43333</td>
+<td align="right">-82.48333</td>
+<td align="right">2093</td>
+<td>Asheville Faa Ap</td>
+<td>Buncombe County</td>
+<td>Fletcher</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper French Broad</td>
+</tr>
+<tr>
+<td>318694</td>
+<td align="right">1946</td>
+<td align="right">4</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">36.39194</td>
+<td align="right">-81.30389</td>
+<td align="right">2875</td>
+<td>Transou</td>
+<td>Ashe County</td>
+<td>Laurel Springs</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper New</td>
+</tr>
+<tr>
+<td>314860</td>
+<td align="right">1946</td>
+<td align="right">5</td>
+<td align="right">23</td>
+<td>COOP</td>
+<td align="right">34.75083</td>
+<td align="right">-79.46639</td>
+<td align="right">210</td>
+<td>Laurinburg</td>
+<td>Scotland County</td>
+<td>Laurinburg</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Little Pee Dee</td>
+</tr>
+<tr>
+<td>312238</td>
+<td align="right">1946</td>
+<td align="right">10</td>
+<td align="right">21</td>
+<td>COOP</td>
+<td align="right">36.41472</td>
+<td align="right">-80.21694</td>
+<td align="right">840</td>
+<td>Danbury</td>
+<td>Stokes County</td>
+<td>Danbury</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Dan</td>
+</tr>
+<tr>
+<td>KAVL</td>
+<td align="right">1948</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>ASOS</td>
+<td align="right">35.4361944</td>
+<td align="right">-82.5418056</td>
+<td align="right">2165</td>
+<td>Asheville Regional Airport</td>
+<td>Buncombe County</td>
+<td>Asheville</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper French Broad</td>
+</tr>
+<tr>
+<td>KGSO</td>
+<td align="right">1948</td>
+<td align="right">7</td>
+<td align="right">1</td>
+<td>ASOS</td>
+<td align="right">36.0977469</td>
+<td align="right">-79.9372975</td>
+<td align="right">926</td>
+<td>Greensboro Airport</td>
+<td>Guilford County</td>
+<td>Greensboro</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Haw</td>
+</tr>
+<tr>
+<td>319122</td>
+<td align="right">1948</td>
+<td align="right">8</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.76667</td>
+<td align="right">-83.1</td>
+<td align="right">1421</td>
+<td>Waterville</td>
+<td>Haywood County</td>
+<td>Waterville</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Pigeon</td>
+</tr>
+<tr>
+<td>311990</td>
+<td align="right">1948</td>
+<td align="right">9</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.82139</td>
+<td align="right">-81.19194</td>
+<td align="right">883</td>
+<td>Conover Oxford Shoals</td>
+<td>Catawba County</td>
+<td>Conover</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Catawba</td>
+</tr>
+<tr>
+<td>310530</td>
+<td align="right">1949</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.76667</td>
+<td align="right">-82.43333</td>
+<td align="right">2251</td>
+<td>Barnardsville</td>
+<td>Buncombe County</td>
+<td>Mars Hill</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper French Broad</td>
+</tr>
+<tr>
+<td>319467</td>
+<td align="right">1949</td>
+<td align="right">7</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">34.32083</td>
+<td align="right">-77.92056</td>
+<td align="right">40</td>
+<td>Wilmington 7 N</td>
+<td>New Hanover County</td>
+<td>Wilmington</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Northeast Cape Fear</td>
+</tr>
+<tr>
+<td>314788</td>
+<td align="right">1950</td>
+<td align="right">7</td>
+<td align="right">4</td>
+<td>COOP</td>
+<td align="right">35.10861</td>
+<td align="right">-82.96083</td>
+<td align="right">3080</td>
+<td>Lake Toxaway 2 Sw</td>
+<td>Transylvania County</td>
+<td>Lake Toxaway</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Seneca</td>
+</tr>
+<tr>
+<td>312631</td>
+<td align="right">1950</td>
+<td align="right">9</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">36.47417</td>
+<td align="right">-79.74333</td>
+<td align="right">678</td>
+<td>Eden</td>
+<td>Rockingham County</td>
+<td>Eden</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Dan</td>
+</tr>
+<tr>
+<td>311239</td>
+<td align="right">1950</td>
+<td align="right">12</td>
+<td align="right">25</td>
+<td>COOP</td>
+<td align="right">36.06028</td>
+<td align="right">-79.44806</td>
+<td align="right">660</td>
+<td>Burlington Fire Stn #5</td>
+<td>Alamance County</td>
+<td>Burlington</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Haw</td>
+</tr>
+<tr>
+<td>314996</td>
+<td align="right">1952</td>
+<td align="right">4</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.46056</td>
+<td align="right">-81.32889</td>
+<td align="right">900</td>
+<td>Lincolnton 4 W</td>
+<td>Lincoln County</td>
+<td>Lincolnton</td>
+<td>NC</td>
+<td>NWS</td>
+<td>South Fork Catawba</td>
+</tr>
+<tr>
+<td>317508</td>
+<td align="right">1954</td>
+<td align="right">4</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.7</td>
+<td align="right">-80.61667</td>
+<td align="right">825</td>
+<td>Rowan Rsch Stn</td>
+<td>Rowan County</td>
+<td>Cleveland</td>
+<td>NC</td>
+<td>NWS</td>
+<td>South Yadkin</td>
+</tr>
+<tr>
+<td>319357</td>
+<td align="right">1954</td>
+<td align="right">5</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">34.40944</td>
+<td align="right">-78.79139</td>
+<td align="right">90</td>
+<td>Whiteville 7 Nw</td>
+<td>Columbus County</td>
+<td>Whiteville</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Waccamaw</td>
+</tr>
+<tr>
+<td>KNCA</td>
+<td align="right">1955</td>
+<td align="right">1</td>
+<td align="right">3</td>
+<td>AWOS</td>
+<td align="right">34.7073361</td>
+<td align="right">-77.4451639</td>
+<td align="right">26</td>
+<td>New River MCAS</td>
+<td>Onslow County</td>
+<td>Jacksonville</td>
+<td>NC</td>
+<td>US Military</td>
+<td>New</td>
+</tr>
+<tr>
+<td>313565</td>
+<td align="right">1955</td>
+<td align="right">8</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">36.09583</td>
+<td align="right">-81.83222</td>
+<td align="right">5300</td>
+<td>Grandfather Mtn</td>
+<td>Avery County</td>
+<td>Grandfather Mountain</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Catawba</td>
+</tr>
+<tr>
+<td>311820</td>
+<td align="right">1955</td>
+<td align="right">11</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.64083</td>
+<td align="right">-78.46333</td>
+<td align="right">300</td>
+<td>Clayton Wtp</td>
+<td>Johnston County</td>
+<td>Clayton</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Neuse</td>
+</tr>
+<tr>
+<td>311538</td>
+<td align="right">1956</td>
+<td align="right">3</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.49667</td>
+<td align="right">-81.61306</td>
+<td align="right">1050</td>
+<td>Casar</td>
+<td>Cleveland County</td>
+<td>Casar</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Broad</td>
+</tr>
+<tr>
+<td>311458</td>
+<td align="right">1957</td>
+<td align="right">3</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.2325</td>
+<td align="right">-75.62194</td>
+<td align="right">11</td>
+<td>Cape Hatteras Ap</td>
+<td>Dare County</td>
+<td>Buxton</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Pamlico Sound</td>
+</tr>
+<tr>
+<td>316341</td>
+<td align="right">1958</td>
+<td align="right">11</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.52611</td>
+<td align="right">-83.30889</td>
+<td align="right">2040</td>
+<td>Oconaluftee</td>
+<td>Swain County</td>
+<td>Oconaluftee</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Tuckasegee</td>
+</tr>
+<tr>
+<td>317202</td>
+<td align="right">1962</td>
+<td align="right">2</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">36.3825</td>
+<td align="right">-79.69472</td>
+<td align="right">890</td>
+<td>Reidsville 2 Nw</td>
+<td>Rockingham County</td>
+<td>Reidsville</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Dan</td>
+</tr>
+<tr>
+<td>312500</td>
+<td align="right">1962</td>
+<td align="right">9</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.32472</td>
+<td align="right">-78.68806</td>
+<td align="right">200</td>
+<td>Dunn 4 Nw</td>
+<td>Harnett County</td>
+<td>Dunn</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Cape Fear</td>
+</tr>
+<tr>
+<td>319555</td>
+<td align="right">1965</td>
+<td align="right">7</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">36.13083</td>
+<td align="right">-81.2275</td>
+<td align="right">1070</td>
+<td>W Kerr Scott Rsvr</td>
+<td>Wilkes County</td>
+<td>Wilkesboro</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Yadkin</td>
+</tr>
+<tr>
+<td>314689</td>
+<td align="right">1966</td>
+<td align="right">3</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.2975</td>
+<td align="right">-77.57222</td>
+<td align="right">60</td>
+<td>Kinston Ag Rsch</td>
+<td>Lenoir County</td>
+<td>Kinston</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Middle Neuse</td>
+</tr>
+<tr>
+<td>310576</td>
+<td align="right">1968</td>
+<td align="right">9</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.13111</td>
+<td align="right">-76.81611</td>
+<td align="right">5</td>
+<td>Bayboro 3 Sw</td>
+<td>Pamlico County</td>
+<td>Bayboro</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Pamlico Sound</td>
+</tr>
+<tr>
+<td>317319</td>
+<td align="right">1972</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">36.47833</td>
+<td align="right">-77.67167</td>
+<td align="right">210</td>
+<td>Roanoke Rapids</td>
+<td>Halifax County</td>
+<td>Roanoke Rapids</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Lower Roanoke</td>
+</tr>
+<tr>
+<td>315116</td>
+<td align="right">1972</td>
+<td align="right">6</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">34.01028</td>
+<td align="right">-78.545</td>
+<td align="right">40</td>
+<td>Longwood</td>
+<td>Brunswick County</td>
+<td>Longwood</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Waccamaw</td>
+</tr>
+<tr>
+<td>310375</td>
+<td align="right">1973</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.38722</td>
+<td align="right">-76.77639</td>
+<td align="right">20</td>
+<td>Aurora 6 N</td>
+<td>Beaufort County</td>
+<td>Aurora</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Pamlico</td>
+</tr>
+<tr>
+<td>315996</td>
+<td align="right">1973</td>
+<td align="right">9</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">36.45222</td>
+<td align="right">-77.08028</td>
+<td align="right">100</td>
+<td>Murfreesboro</td>
+<td>Hertford County</td>
+<td>Murfreesboro</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Meherrin</td>
+</tr>
+<tr>
+<td>CLAY</td>
+<td align="right">1978</td>
+<td align="right">12</td>
+<td align="right">8</td>
+<td>ECONET</td>
+<td align="right">35.66979</td>
+<td align="right">-78.4926</td>
+<td align="right">350</td>
+<td>Central Crops Research Station</td>
+<td>Johnston County</td>
+<td>Clayton</td>
+<td>NC</td>
+<td>NC Agricultural Research Service</td>
+<td>Upper Neuse</td>
+</tr>
+<tr>
+<td>LEWS</td>
+<td align="right">1979</td>
+<td align="right">4</td>
+<td align="right">3</td>
+<td>ECONET</td>
+<td align="right">36.1324</td>
+<td align="right">-77.17552</td>
+<td align="right">61</td>
+<td>Peanut Belt Research Station</td>
+<td>Bertie County</td>
+<td>Lewiston</td>
+<td>NC</td>
+<td>NC Agricultural Research Service</td>
+<td>Lower Roanoke</td>
+</tr>
+<tr>
+<td>315923</td>
+<td align="right">1980</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.75861</td>
+<td align="right">-82.27111</td>
+<td align="right">6240</td>
+<td>Mt Mitchell</td>
+<td>Yancey County</td>
+<td>Mount Mitchell</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Nolichucky</td>
+</tr>
+<tr>
+<td>310982</td>
+<td align="right">1980</td>
+<td align="right">6</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">36.21139</td>
+<td align="right">-81.64417</td>
+<td align="right">3360</td>
+<td>Boone 1 Se</td>
+<td>Watauga County</td>
+<td>Boone</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper New</td>
+</tr>
+<tr>
+<td>LAKE</td>
+<td align="right">1982</td>
+<td align="right">5</td>
+<td align="right">12</td>
+<td>ECONET</td>
+<td align="right">35.72816</td>
+<td align="right">-78.67981</td>
+<td align="right">382</td>
+<td>Lake Wheeler Rd Field Lab</td>
+<td>Wake County</td>
+<td>Raleigh</td>
+<td>NC</td>
+<td>NC Agricultural Research Service</td>
+<td>Upper Neuse</td>
+</tr>
+<tr>
+<td>FLET</td>
+<td align="right">1982</td>
+<td align="right">6</td>
+<td align="right">18</td>
+<td>ECONET</td>
+<td align="right">35.42721</td>
+<td align="right">-82.55888</td>
+<td align="right">2067</td>
+<td>Mtn Horticultural Crops Res Stn</td>
+<td>Henderson County</td>
+<td>Mills River</td>
+<td>NC</td>
+<td>NC Agricultural Research Service</td>
+<td>Upper French Broad</td>
+</tr>
+<tr>
+<td>CAST</td>
+<td align="right">1983</td>
+<td align="right">3</td>
+<td align="right">17</td>
+<td>ECONET</td>
+<td align="right">34.32107</td>
+<td align="right">-77.91611</td>
+<td align="right">43</td>
+<td>Horticultural Crops Res Stn</td>
+<td>New Hanover County</td>
+<td>Castle Hayne</td>
+<td>NC</td>
+<td>NC Agricultural Research Service</td>
+<td>Northeast Cape Fear</td>
+</tr>
+<tr>
+<td>CLIN</td>
+<td align="right">1984</td>
+<td align="right">4</td>
+<td align="right">17</td>
+<td>ECONET</td>
+<td align="right">35.02218</td>
+<td align="right">-78.28195</td>
+<td align="right">166</td>
+<td>Horticultural Crops Research Stn</td>
+<td>Sampson County</td>
+<td>Clinton</td>
+<td>NC</td>
+<td>NC Agricultural Research Service</td>
+<td>Black</td>
+</tr>
+<tr>
+<td>WHIT</td>
+<td align="right">1984</td>
+<td align="right">5</td>
+<td align="right">25</td>
+<td>ECONET</td>
+<td align="right">34.41347</td>
+<td align="right">-78.7923</td>
+<td align="right">89</td>
+<td>Border Belt Tobacco Res Stn</td>
+<td>Columbus County</td>
+<td>Whiteville</td>
+<td>NC</td>
+<td>NC Agricultural Research Service</td>
+<td>Waccamaw</td>
+</tr>
+<tr>
+<td>PLYM</td>
+<td align="right">1984</td>
+<td align="right">7</td>
+<td align="right">20</td>
+<td>ECONET</td>
+<td align="right">35.84887</td>
+<td align="right">-76.65058</td>
+<td align="right">20</td>
+<td>Tidewater Research Station</td>
+<td>Washington County</td>
+<td>Plymouth</td>
+<td>NC</td>
+<td>NC Ag Research</td>
+<td>Albemarle</td>
+</tr>
+<tr>
+<td>JACK</td>
+<td align="right">1985</td>
+<td align="right">8</td>
+<td align="right">29</td>
+<td>ECONET</td>
+<td align="right">35.18782</td>
+<td align="right">-79.68437</td>
+<td align="right">625</td>
+<td>Sandhills Research Station</td>
+<td>Montgomery County</td>
+<td>Jackson Springs</td>
+<td>NC</td>
+<td>NC Agricultural Research Service</td>
+<td>Upper Pee Dee</td>
+</tr>
+<tr>
+<td>OXFO</td>
+<td align="right">1987</td>
+<td align="right">5</td>
+<td align="right">1</td>
+<td>ECONET</td>
+<td align="right">36.30339</td>
+<td align="right">-78.61662</td>
+<td align="right">500</td>
+<td>Oxford Tobacco Research Stn</td>
+<td>Granville County</td>
+<td>Oxford</td>
+<td>NC</td>
+<td>NC Agricultural Research Service</td>
+<td>Upper Tar</td>
+</tr>
+<tr>
+<td>ROCK</td>
+<td align="right">1987</td>
+<td align="right">5</td>
+<td align="right">19</td>
+<td>ECONET</td>
+<td align="right">35.89295</td>
+<td align="right">-77.67996</td>
+<td align="right">88</td>
+<td>Upper Coastal Plain Res Stn</td>
+<td>Edgecombe County</td>
+<td>Rocky Mount</td>
+<td>NC</td>
+<td>NC Agricultural Research Service</td>
+<td>Lower Tar</td>
+</tr>
+<tr>
+<td>KINS</td>
+<td align="right">1987</td>
+<td align="right">6</td>
+<td align="right">10</td>
+<td>ECONET</td>
+<td align="right">35.30288</td>
+<td align="right">-77.57306</td>
+<td align="right">95</td>
+<td>Cunningham Research Station</td>
+<td>Lenoir County</td>
+<td>Kinston</td>
+<td>NC</td>
+<td>NC Agricultural Research Service</td>
+<td>Contentnea</td>
+</tr>
+<tr>
+<td>WAYN</td>
+<td align="right">1987</td>
+<td align="right">10</td>
+<td align="right">3</td>
+<td>ECONET</td>
+<td align="right">35.48752</td>
+<td align="right">-82.96768</td>
+<td align="right">2755</td>
+<td>Mountain Research Station</td>
+<td>Haywood County</td>
+<td>Waynesville</td>
+<td>NC</td>
+<td>NC Agricultural Research Service</td>
+<td>Pigeon</td>
+</tr>
+<tr>
+<td>311420</td>
+<td align="right">1992</td>
+<td align="right">5</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.54528</td>
+<td align="right">-82.69861</td>
+<td align="right">2357</td>
+<td>Candler 1w</td>
+<td>Buncombe County</td>
+<td>Bent Creek</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper French Broad</td>
+</tr>
+<tr>
+<td>310212</td>
+<td align="right">1993</td>
+<td align="right">7</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.7425</td>
+<td align="right">-78.83694</td>
+<td align="right">450</td>
+<td>Apex</td>
+<td>Wake County</td>
+<td>Apex</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Neuse</td>
+</tr>
+<tr>
+<td>318519</td>
+<td align="right">1994</td>
+<td align="right">2</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.9225</td>
+<td align="right">-81.17167</td>
+<td align="right">1320</td>
+<td>Taylorsville</td>
+<td>Alexander County</td>
+<td>Taylorsville</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Catawba</td>
+</tr>
+<tr>
+<td>316510</td>
+<td align="right">1994</td>
+<td align="right">3</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">36.30222</td>
+<td align="right">-78.61083</td>
+<td align="right">500</td>
+<td>Oxford Ag</td>
+<td>Granville County</td>
+<td>Oxford</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Tar</td>
+</tr>
+<tr>
+<td>KNJM</td>
+<td align="right">1996</td>
+<td align="right">8</td>
+<td align="right">28</td>
+<td>AWOS</td>
+<td align="right">34.6905</td>
+<td align="right">-77.0296667</td>
+<td align="right">22</td>
+<td>Bogue Field MCALF</td>
+<td>Carteret County</td>
+<td>Bogue</td>
+<td>NC</td>
+<td>US Military</td>
+<td>Bogue-Core Sounds</td>
+</tr>
+<tr>
+<td>319704</td>
+<td align="right">1996</td>
+<td align="right">12</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">36.37833</td>
+<td align="right">-79.25444</td>
+<td align="right">655</td>
+<td>Yanceyville 4 Se</td>
+<td>Caswell County</td>
+<td>Yanceyville</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Lower Dan</td>
+</tr>
+<tr>
+<td>KEWN</td>
+<td align="right">1997</td>
+<td align="right">10</td>
+<td align="right">1</td>
+<td>ASOS</td>
+<td align="right">35.0729722</td>
+<td align="right">-77.0429444</td>
+<td align="right">18</td>
+<td>Craven County Airport</td>
+<td>Craven County</td>
+<td>New Bern</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Lower Neuse</td>
+</tr>
+<tr>
+<td>KECG</td>
+<td align="right">1998</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>ASOS</td>
+<td align="right">36.2605806</td>
+<td align="right">-76.1745722</td>
+<td align="right">12</td>
+<td>Coast Guard Air Field</td>
+<td>Pasquotank County</td>
+<td>Elizabeth City</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Albemarle</td>
+</tr>
+<tr>
+<td>KFAY</td>
+<td align="right">1998</td>
+<td align="right">1</td>
+<td align="right">10</td>
+<td>ASOS</td>
+<td align="right">34.9912161</td>
+<td align="right">-78.8802717</td>
+<td align="right">189</td>
+<td>Fayetteville Airport</td>
+<td>Cumberland County</td>
+<td>Fayetteville</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Cape Fear</td>
+</tr>
+<tr>
+<td>KMEB</td>
+<td align="right">1998</td>
+<td align="right">1</td>
+<td align="right">21</td>
+<td>ASOS</td>
+<td align="right">34.7919392</td>
+<td align="right">-79.3658478</td>
+<td align="right">220</td>
+<td>Laurinburg-Maxton Airport</td>
+<td>Scotland County</td>
+<td>Maxton</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Little Pee Dee</td>
+</tr>
+<tr>
+<td>KBUY</td>
+<td align="right">1998</td>
+<td align="right">7</td>
+<td align="right">1</td>
+<td>ASOS</td>
+<td align="right">36.0485433</td>
+<td align="right">-79.4748892</td>
+<td align="right">617</td>
+<td>Burlington Alamance Airport</td>
+<td>Alamance County</td>
+<td>Burlington</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Haw</td>
+</tr>
+<tr>
+<td>REED</td>
+<td align="right">1998</td>
+<td align="right">10</td>
+<td align="right">14</td>
+<td>ECONET</td>
+<td align="right">35.80712</td>
+<td align="right">-78.74412</td>
+<td align="right">420</td>
+<td>Reedy Creek Field Laboratory</td>
+<td>Wake County</td>
+<td>Raleigh</td>
+<td>NC</td>
+<td>NC Agricultural Research Service</td>
+<td>Upper Neuse</td>
+</tr>
+<tr>
+<td>KINT</td>
+<td align="right">1998</td>
+<td align="right">12</td>
+<td align="right">1</td>
+<td>ASOS</td>
+<td align="right">36.1337222</td>
+<td align="right">-80.222</td>
+<td align="right">969</td>
+<td>Smith Reynolds Airport</td>
+<td>Forsyth County</td>
+<td>Winston Salem</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Yadkin</td>
+</tr>
+<tr>
+<td>KLBT</td>
+<td align="right">1999</td>
+<td align="right">1</td>
+<td align="right">14</td>
+<td>ASOS</td>
+<td align="right">34.6099167</td>
+<td align="right">-79.0594444</td>
+<td align="right">126</td>
+<td>Lumberton Municipal Airport</td>
+<td>Robeson County</td>
+<td>Lumberton</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Lumber</td>
+</tr>
+<tr>
+<td>KAKH</td>
+<td align="right">1999</td>
+<td align="right">2</td>
+<td align="right">1</td>
+<td>ASOS</td>
+<td align="right">35.2026594</td>
+<td align="right">-81.1498675</td>
+<td align="right">797</td>
+<td>Gastonia Municipal Airport</td>
+<td>Gaston County</td>
+<td>Gastonia</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Catawba</td>
+</tr>
+<tr>
+<td>REID</td>
+<td align="right">1999</td>
+<td align="right">5</td>
+<td align="right">19</td>
+<td>ECONET</td>
+<td align="right">36.38152</td>
+<td align="right">-79.69982</td>
+<td align="right">858</td>
+<td>Upper Piedmont Research Stn</td>
+<td>Rockingham County</td>
+<td>Reidsville</td>
+<td>NC</td>
+<td>NC Agricultural Research Service</td>
+<td>Haw</td>
+</tr>
+<tr>
+<td>314675</td>
+<td align="right">1999</td>
+<td align="right">7</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">36.22306</td>
+<td align="right">-80.42917</td>
+<td align="right">880</td>
+<td>King 5 Sw</td>
+<td>Stokes County</td>
+<td>Tobaccoville</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Yadkin</td>
+</tr>
+<tr>
+<td>NWHI</td>
+<td align="right">1999</td>
+<td align="right">9</td>
+<td align="right">10</td>
+<td>RAWS</td>
+<td align="right">34.34</td>
+<td align="right">-78.73</td>
+<td align="right">100</td>
+<td>Whiteville</td>
+<td>Columbus County</td>
+<td>Whiteville</td>
+<td>NC</td>
+<td>State/Private Forestry</td>
+<td>Lower Pee Dee</td>
+</tr>
+<tr>
+<td>NGUI</td>
+<td align="right">1999</td>
+<td align="right">10</td>
+<td align="right">22</td>
+<td>RAWS</td>
+<td align="right">35.21</td>
+<td align="right">-82.59</td>
+<td align="right">2600</td>
+<td>Guion Farm</td>
+<td>Henderson County</td>
+<td>Etowah</td>
+<td>NC</td>
+<td>State/Private Forestry</td>
+<td>French Broad-Holston</td>
+</tr>
+<tr>
+<td>310645</td>
+<td align="right">2000</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">36.18778</td>
+<td align="right">-81.87361</td>
+<td align="right">5053</td>
+<td>Beech Mtn</td>
+<td>Avery County</td>
+<td>Beech Mountain</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Watauga</td>
+</tr>
+<tr>
+<td>311949</td>
+<td align="right">2000</td>
+<td align="right">1</td>
+<td align="right">2</td>
+<td>COOP</td>
+<td align="right">35.71083</td>
+<td align="right">-76.12694</td>
+<td align="right">10</td>
+<td>Columbia Ag Gum Neck</td>
+<td>Tyrrell County</td>
+<td>Columbia</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Albemarle</td>
+</tr>
+<tr>
+<td>310750</td>
+<td align="right">2000</td>
+<td align="right">1</td>
+<td align="right">3</td>
+<td>COOP</td>
+<td align="right">35.65417</td>
+<td align="right">-79.07056</td>
+<td align="right">310</td>
+<td>B Everett Jordan Dam</td>
+<td>Chatham County</td>
+<td>Pittsboro</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Haw</td>
+</tr>
+<tr>
+<td>312993</td>
+<td align="right">2000</td>
+<td align="right">1</td>
+<td align="right">4</td>
+<td>COOP</td>
+<td align="right">35.98222</td>
+<td align="right">-78.66528</td>
+<td align="right">280</td>
+<td>Falls Lake</td>
+<td>Wake County</td>
+<td>Creedmoor</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Neuse</td>
+</tr>
+<tr>
+<td>318906</td>
+<td align="right">2000</td>
+<td align="right">1</td>
+<td align="right">6</td>
+<td>COOP</td>
+<td align="right">35.52333</td>
+<td align="right">-81.44417</td>
+<td align="right">900</td>
+<td>Vale Ag 2 Sw</td>
+<td>Lincoln County</td>
+<td>Belwood</td>
+<td>NC</td>
+<td>NWS</td>
+<td>South Fork Catawba</td>
+</tr>
+<tr>
+<td>KMRH</td>
+<td align="right">2000</td>
+<td align="right">1</td>
+<td align="right">25</td>
+<td>ASOS</td>
+<td align="right">34.7335503</td>
+<td align="right">-76.6605961</td>
+<td align="right">11</td>
+<td>Beaufort Smith Field</td>
+<td>Carteret County</td>
+<td>Beaufort</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Bogue-Core Sounds</td>
+</tr>
+<tr>
+<td>NFBR</td>
+<td align="right">2000</td>
+<td align="right">2</td>
+<td align="right">5</td>
+<td>RAWS</td>
+<td align="right">35.14</td>
+<td align="right">-79.06</td>
+<td align="right">469</td>
+<td>Fort Bragg</td>
+<td>Cumberland County</td>
+<td>Fort Bragg</td>
+<td>NC</td>
+<td>State/Private Forestry</td>
+<td>Cape Fear</td>
+</tr>
+<tr>
+<td>NRCK</td>
+<td align="right">2000</td>
+<td align="right">2</td>
+<td align="right">28</td>
+<td>RAWS</td>
+<td align="right">34.96</td>
+<td align="right">-79.69</td>
+<td align="right">400</td>
+<td>Rockingham</td>
+<td>Richmond County</td>
+<td>Dobbins Heights</td>
+<td>NC</td>
+<td>State/Private Forestry</td>
+<td>Lower Pee Dee</td>
+</tr>
+<tr>
+<td>NDUK</td>
+<td align="right">2000</td>
+<td align="right">3</td>
+<td align="right">30</td>
+<td>RAWS</td>
+<td align="right">35.97</td>
+<td align="right">-79.09</td>
+<td align="right">565</td>
+<td>Duke Forest</td>
+<td>Orange County</td>
+<td>Carrboro</td>
+<td>NC</td>
+<td>State/Private Forestry</td>
+<td>Cape Fear</td>
+</tr>
+<tr>
+<td>311535</td>
+<td align="right">2000</td>
+<td align="right">3</td>
+<td align="right">31</td>
+<td>COOP</td>
+<td align="right">35.71917</td>
+<td align="right">-78.78778</td>
+<td align="right">390</td>
+<td>Cary</td>
+<td>Wake County</td>
+<td>Cary</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Neuse</td>
+</tr>
+<tr>
+<td>LAUR</td>
+<td align="right">2000</td>
+<td align="right">4</td>
+<td align="right">18</td>
+<td>ECONET</td>
+<td align="right">36.40232</td>
+<td align="right">-81.29711</td>
+<td align="right">3009</td>
+<td>Upper Mountain Research Stn</td>
+<td>Ashe County</td>
+<td>Laurel Springs</td>
+<td>NC</td>
+<td>NC Agricultural Research Service</td>
+<td>Upper New</td>
+</tr>
+<tr>
+<td>WILL</td>
+<td align="right">2000</td>
+<td align="right">5</td>
+<td align="right">10</td>
+<td>ECONET</td>
+<td align="right">35.83903</td>
+<td align="right">-77.09349</td>
+<td align="right">72</td>
+<td>Highway Patrol Comm Station</td>
+<td>Martin County</td>
+<td>Williamston</td>
+<td>NC</td>
+<td>NC DENR Air Quality</td>
+<td>Lower Roanoke</td>
+</tr>
+<tr>
+<td>319026</td>
+<td align="right">2000</td>
+<td align="right">6</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">34.72</td>
+<td align="right">-77.97778</td>
+<td align="right">29</td>
+<td>Wallace</td>
+<td>Duplin County</td>
+<td>Wallace</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Northeast Cape Fear</td>
+</tr>
+<tr>
+<td>AURO</td>
+<td align="right">2000</td>
+<td align="right">6</td>
+<td align="right">30</td>
+<td>ECONET</td>
+<td align="right">35.36232</td>
+<td align="right">-76.7163</td>
+<td align="right">4</td>
+<td>Pamlico Aquaculture Field Lab</td>
+<td>Beaufort County</td>
+<td>Aurora</td>
+<td>NC</td>
+<td>NC Emergency Management</td>
+<td>Pamlico</td>
+</tr>
+<tr>
+<td>BEAR</td>
+<td align="right">2000</td>
+<td align="right">7</td>
+<td align="right">27</td>
+<td>ECONET</td>
+<td align="right">35.46135</td>
+<td align="right">-82.35822</td>
+<td align="right">4219</td>
+<td>Bearwallow Mountain</td>
+<td>Henderson County</td>
+<td>Gerton</td>
+<td>NC</td>
+<td>NC DENR Air Quality</td>
+<td>Upper French Broad</td>
+</tr>
+<tr>
+<td>KRWI</td>
+<td align="right">2000</td>
+<td align="right">10</td>
+<td align="right">1</td>
+<td>ASOS</td>
+<td align="right">35.8562528</td>
+<td align="right">-77.8919333</td>
+<td align="right">159</td>
+<td>Rocky Mount-Wilson Airport</td>
+<td>Nash County</td>
+<td>Rocky Mount</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Tar</td>
+</tr>
+<tr>
+<td>SILR</td>
+<td align="right">2000</td>
+<td align="right">10</td>
+<td align="right">24</td>
+<td>ECONET</td>
+<td align="right">35.7043056</td>
+<td align="right">-79.5041889</td>
+<td align="right">614</td>
+<td>Siler City Airport</td>
+<td>Chatham County</td>
+<td>Siler City</td>
+<td>NC</td>
+<td>NC DENR Air Quality</td>
+<td>Deep</td>
+</tr>
+<tr>
+<td>311817</td>
+<td align="right">2000</td>
+<td align="right">11</td>
+<td align="right">16</td>
+<td>COOP</td>
+<td align="right">35.64917</td>
+<td align="right">-78.39778</td>
+<td align="right">332</td>
+<td>Clayton 3e</td>
+<td>Johnston County</td>
+<td>Clayton</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Neuse</td>
+</tr>
+<tr>
+<td>NNAC</td>
+<td align="right">2000</td>
+<td align="right">12</td>
+<td align="right">12</td>
+<td>RAWS</td>
+<td align="right">34.05</td>
+<td align="right">-78.29</td>
+<td align="right">55</td>
+<td>Nature Conservancy</td>
+<td>Brunswick County</td>
+<td>Varnamtown</td>
+<td>NC</td>
+<td>State/Private Forestry</td>
+<td>Carolina Coastal-Sampit</td>
+</tr>
+<tr>
+<td>KASJ</td>
+<td align="right">2000</td>
+<td align="right">12</td>
+<td align="right">13</td>
+<td>AWOS</td>
+<td align="right">36.2975258</td>
+<td align="right">-77.1708556</td>
+<td align="right">68</td>
+<td>Tri-County Airport</td>
+<td>Hertford County</td>
+<td>Ahoskie</td>
+<td>NC</td>
+<td>FAA / Local Aviation</td>
+<td>Meherrin</td>
+</tr>
+<tr>
+<td>KIPJ</td>
+<td align="right">2000</td>
+<td align="right">12</td>
+<td align="right">14</td>
+<td>AWOS</td>
+<td align="right">35.4833278</td>
+<td align="right">-81.1612583</td>
+<td align="right">875</td>
+<td>Lincoln County Airport</td>
+<td>Lincoln County</td>
+<td>Lincolnton</td>
+<td>NC</td>
+<td>FAA / Local Aviation</td>
+<td>Upper Catawba</td>
+</tr>
+<tr>
+<td>KEXX</td>
+<td align="right">2001</td>
+<td align="right">3</td>
+<td align="right">20</td>
+<td>AWOS</td>
+<td align="right">35.7811403</td>
+<td align="right">-80.3037819</td>
+<td align="right">733</td>
+<td>Davidson County Airport</td>
+<td>Davidson County</td>
+<td>Lexington</td>
+<td>NC</td>
+<td>FAA / Local Aviation</td>
+<td>Lower Yadkin</td>
+</tr>
+<tr>
+<td>KTNB</td>
+<td align="right">2001</td>
+<td align="right">3</td>
+<td align="right">30</td>
+<td>AWOS</td>
+<td align="right">36.2</td>
+<td align="right">-81.65</td>
+<td align="right">2987</td>
+<td>Boone-Watauga Hospital</td>
+<td>Watauga County</td>
+<td>Boone</td>
+<td>NC</td>
+<td>FAA / Local Aviation</td>
+<td>Upper New</td>
+</tr>
+<tr>
+<td>KTTA</td>
+<td align="right">2001</td>
+<td align="right">4</td>
+<td align="right">6</td>
+<td>AWOS</td>
+<td align="right">35.5837394</td>
+<td align="right">-79.1007656</td>
+<td align="right">247</td>
+<td>Lee County Airport</td>
+<td>Lee County</td>
+<td>Sanford</td>
+<td>NC</td>
+<td>FAA / Local Aviation</td>
+<td>Deep</td>
+</tr>
+<tr>
+<td>KJQF</td>
+<td align="right">2001</td>
+<td align="right">4</td>
+<td align="right">30</td>
+<td>AWOS</td>
+<td align="right">35.387775</td>
+<td align="right">-80.7091361</td>
+<td align="right">705</td>
+<td>Concord Regional Airport</td>
+<td>Cabarrus County</td>
+<td>Concord</td>
+<td>NC</td>
+<td>FAA / Local Aviation</td>
+<td>Rocky</td>
+</tr>
+<tr>
+<td>KRHP</td>
+<td align="right">2001</td>
+<td align="right">6</td>
+<td align="right">18</td>
+<td>AWOS</td>
+<td align="right">35.1950056</td>
+<td align="right">-83.8638417</td>
+<td align="right">1697</td>
+<td>Andrews-Murphy Airport</td>
+<td>Cherokee County</td>
+<td>Andrews</td>
+<td>NC</td>
+<td>FAA / Local Aviation</td>
+<td>Hiwassee</td>
+</tr>
+<tr>
+<td>314471</td>
+<td align="right">2001</td>
+<td align="right">6</td>
+<td align="right">27</td>
+<td>COOP</td>
+<td align="right">34.79667</td>
+<td align="right">-77.40083</td>
+<td align="right">17</td>
+<td>Jacksonville Eoc</td>
+<td>Onslow County</td>
+<td>Jacksonville</td>
+<td>NC</td>
+<td>NWS</td>
+<td>New</td>
+</tr>
+<tr>
+<td>313919</td>
+<td align="right">2001</td>
+<td align="right">9</td>
+<td align="right">12</td>
+<td>COOP</td>
+<td align="right">36.06389</td>
+<td align="right">-79.38306</td>
+<td align="right">636</td>
+<td>Haw River 1e</td>
+<td>Alamance County</td>
+<td>Graham</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Haw</td>
+</tr>
+<tr>
+<td>KEYF</td>
+<td align="right">2002</td>
+<td align="right">1</td>
+<td align="right">2</td>
+<td>AWOS</td>
+<td align="right">34.6018042</td>
+<td align="right">-78.5792708</td>
+<td align="right">132</td>
+<td>Brown Field</td>
+<td>Bladen County</td>
+<td>Elizabethtown</td>
+<td>NC</td>
+<td>FAA / Local Aviation</td>
+<td>Lower Cape Fear</td>
+</tr>
+<tr>
+<td>KCPC</td>
+<td align="right">2002</td>
+<td align="right">1</td>
+<td align="right">3</td>
+<td>AWOS</td>
+<td align="right">34.2728728</td>
+<td align="right">-78.7149928</td>
+<td align="right">98</td>
+<td>Columbus County Airport</td>
+<td>Columbus County</td>
+<td>Whiteville</td>
+<td>NC</td>
+<td>FAA / Local Aviation</td>
+<td>Waccamaw</td>
+</tr>
+<tr>
+<td>KCTZ</td>
+<td align="right">2002</td>
+<td align="right">1</td>
+<td align="right">6</td>
+<td>AWOS</td>
+<td align="right">34.9756119</td>
+<td align="right">-78.3646153</td>
+<td align="right">148</td>
+<td>Sampson County Airport</td>
+<td>Sampson County</td>
+<td>Clinton</td>
+<td>NC</td>
+<td>FAA / Local Aviation</td>
+<td>Black</td>
+</tr>
+<tr>
+<td>KHNZ</td>
+<td align="right">2002</td>
+<td align="right">1</td>
+<td align="right">12</td>
+<td>AWOS</td>
+<td align="right">36.3615611</td>
+<td align="right">-78.5291664</td>
+<td align="right">527</td>
+<td>Henderson-Oxford Airport</td>
+<td>Granville County</td>
+<td>Oxford</td>
+<td>NC</td>
+<td>FAA / Local Aviation</td>
+<td>Upper Tar</td>
+</tr>
+<tr>
+<td>NSUN</td>
+<td align="right">2002</td>
+<td align="right">1</td>
+<td align="right">18</td>
+<td>RAWS</td>
+<td align="right">34</td>
+<td align="right">-77.96</td>
+<td align="right">30</td>
+<td>Sunny Point</td>
+<td>Brunswick County</td>
+<td>Kure Beach</td>
+<td>NC</td>
+<td>State/Private Forestry</td>
+<td>Cape Fear</td>
+</tr>
+<tr>
+<td>KSUT</td>
+<td align="right">2002</td>
+<td align="right">1</td>
+<td align="right">25</td>
+<td>AWOS</td>
+<td align="right">33.9292569</td>
+<td align="right">-78.0749917</td>
+<td align="right">25</td>
+<td>Brunswick County Airport</td>
+<td>Brunswick County</td>
+<td>Southport</td>
+<td>NC</td>
+<td>FAA / Local Aviation</td>
+<td>Lower Cape Fear</td>
+</tr>
+<tr>
+<td>TCHE</td>
+<td align="right">2002</td>
+<td align="right">2</td>
+<td align="right">15</td>
+<td>RAWS</td>
+<td align="right">35.62</td>
+<td align="right">-83.21</td>
+<td align="right">3400</td>
+<td>Cherokee</td>
+<td>Swain County</td>
+<td>Maggie Valley</td>
+<td>NC</td>
+<td>NPS</td>
+<td>Tuckasegee</td>
+</tr>
+<tr>
+<td>NNCP</td>
+<td align="right">2002</td>
+<td align="right">3</td>
+<td align="right">8</td>
+<td>RAWS</td>
+<td align="right">35.82</td>
+<td align="right">-81.94</td>
+<td align="right">2560</td>
+<td>North Cove Pinnacle</td>
+<td>Burke County</td>
+<td>Marion</td>
+<td>NC</td>
+<td>State/Private Forestry</td>
+<td>Upper Catawba</td>
+</tr>
+<tr>
+<td>GOLD</td>
+<td align="right">2002</td>
+<td align="right">4</td>
+<td align="right">5</td>
+<td>ECONET</td>
+<td align="right">35.37935</td>
+<td align="right">-78.0448</td>
+<td align="right">79</td>
+<td>Cherry Research Station</td>
+<td>Wayne County</td>
+<td>Goldsboro</td>
+<td>NC</td>
+<td>NC Agricultural Research Service</td>
+<td>Upper Neuse</td>
+</tr>
+<tr>
+<td>NGRC</td>
+<td align="right">2002</td>
+<td align="right">4</td>
+<td align="right">25</td>
+<td>RAWS</td>
+<td align="right">36.02</td>
+<td align="right">-76.89</td>
+<td align="right">42</td>
+<td>Greens Cross</td>
+<td>Bertie County</td>
+<td>Windsor</td>
+<td>NC</td>
+<td>State/Private Forestry</td>
+<td>Roanoke</td>
+</tr>
+<tr>
+<td>NRUT</td>
+<td align="right">2002</td>
+<td align="right">5</td>
+<td align="right">6</td>
+<td>RAWS</td>
+<td align="right">35.43</td>
+<td align="right">-81.94</td>
+<td align="right">1056</td>
+<td>Rutherford County</td>
+<td>Rutherford County</td>
+<td>Ruth</td>
+<td>NC</td>
+<td>State/Private Forestry</td>
+<td>Santee</td>
+</tr>
+<tr>
+<td>WINE</td>
+<td align="right">2002</td>
+<td align="right">5</td>
+<td align="right">15</td>
+<td>ECONET</td>
+<td align="right">35.1731</td>
+<td align="right">-83.58097</td>
+<td align="right">5469</td>
+<td>Wayah Bald Mountain</td>
+<td>Macon County</td>
+<td>Franklin</td>
+<td>NC</td>
+<td>NC DENR Air Quality</td>
+<td>Upper Little Tennessee</td>
+</tr>
+<tr>
+<td>NBAC</td>
+<td align="right">2002</td>
+<td align="right">5</td>
+<td align="right">22</td>
+<td>RAWS</td>
+<td align="right">34.53</td>
+<td align="right">-77.72</td>
+<td align="right">20</td>
+<td>Back Island</td>
+<td>Pender County</td>
+<td>Holly Ridge</td>
+<td>NC</td>
+<td>State/Private Forestry</td>
+<td>Cape Fear</td>
+</tr>
+<tr>
+<td>NJCY</td>
+<td align="right">2002</td>
+<td align="right">7</td>
+<td align="right">9</td>
+<td>RAWS</td>
+<td align="right">35.32</td>
+<td align="right">-83.21</td>
+<td align="right">2800</td>
+<td>Jackson County</td>
+<td>Jackson County</td>
+<td>Sylva</td>
+<td>NC</td>
+<td>State/Private Forestry</td>
+<td>Upper Broad</td>
+</tr>
+<tr>
+<td>NREN</td>
+<td align="right">2002</td>
+<td align="right">7</td>
+<td align="right">31</td>
+<td>RAWS</td>
+<td align="right">36.23</td>
+<td align="right">-81.3</td>
+<td align="right">2384</td>
+<td>Rendezvous Mtn</td>
+<td>Wilkes County</td>
+<td>Millers Creek</td>
+<td>NC</td>
+<td>State/Private Forestry</td>
+<td>Upper Yadkin</td>
+</tr>
+<tr>
+<td>NLEX</td>
+<td align="right">2002</td>
+<td align="right">8</td>
+<td align="right">1</td>
+<td>RAWS</td>
+<td align="right">35.79</td>
+<td align="right">-80.31</td>
+<td align="right">750</td>
+<td>Lexington</td>
+<td>Davidson County</td>
+<td>Lexington</td>
+<td>NC</td>
+<td>State/Private Forestry</td>
+<td>Upper Pee Dee</td>
+</tr>
+<tr>
+<td>NCAS</td>
+<td align="right">2002</td>
+<td align="right">8</td>
+<td align="right">5</td>
+<td>RAWS</td>
+<td align="right">36.39</td>
+<td align="right">-79.29</td>
+<td align="right">580</td>
+<td>Caswell Game Lands</td>
+<td>Caswell County</td>
+<td>Yanceyville</td>
+<td>NC</td>
+<td>State/Private Forestry</td>
+<td>Roanoke</td>
+</tr>
+<tr>
+<td>NHOF</td>
+<td align="right">2002</td>
+<td align="right">8</td>
+<td align="right">22</td>
+<td>RAWS</td>
+<td align="right">34.83</td>
+<td align="right">-77.32</td>
+<td align="right">42</td>
+<td>Hofmann Forest</td>
+<td>Onslow County</td>
+<td>Pumpkin Center</td>
+<td>NC</td>
+<td>State/Private Forestry</td>
+<td>Onslow Bay</td>
+</tr>
+<tr>
+<td>NPOC</td>
+<td align="right">2002</td>
+<td align="right">12</td>
+<td align="right">13</td>
+<td>RAWS</td>
+<td align="right">35.75</td>
+<td align="right">-76.51</td>
+<td align="right">6</td>
+<td>Pocosin Lakes</td>
+<td>Washington County</td>
+<td>Roper</td>
+<td>NC</td>
+<td>FWS</td>
+<td>Albemarle-Chowan</td>
+</tr>
+<tr>
+<td>NBFT</td>
+<td align="right">2003</td>
+<td align="right">1</td>
+<td align="right">6</td>
+<td>RAWS</td>
+<td align="right">35.52</td>
+<td align="right">-76.93</td>
+<td align="right">25</td>
+<td>Beaufort</td>
+<td>Beaufort County</td>
+<td>River Road</td>
+<td>NC</td>
+<td>State/Private Forestry</td>
+<td>Pamlico</td>
+</tr>
+<tr>
+<td>KLHZ</td>
+<td align="right">2003</td>
+<td align="right">1</td>
+<td align="right">25</td>
+<td>AWOS</td>
+<td align="right">36.0233453</td>
+<td align="right">-78.3302714</td>
+<td align="right">369</td>
+<td>Franklin County Airport</td>
+<td>Franklin County</td>
+<td>Louisburg</td>
+<td>NC</td>
+<td>FAA / Local Aviation</td>
+<td>Upper Tar</td>
+</tr>
+<tr>
+<td>316676</td>
+<td align="right">2003</td>
+<td align="right">2</td>
+<td align="right">11</td>
+<td>COOP</td>
+<td align="right">35.05583</td>
+<td align="right">-77.08583</td>
+<td align="right">28</td>
+<td>Perrytown</td>
+<td>Craven County</td>
+<td>Brices Creek</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Lower Neuse</td>
+</tr>
+<tr>
+<td>NBUS</td>
+<td align="right">2003</td>
+<td align="right">2</td>
+<td align="right">20</td>
+<td>RAWS</td>
+<td align="right">35.77</td>
+<td align="right">-82.19</td>
+<td align="right">2892</td>
+<td>Busick</td>
+<td>Yancey County</td>
+<td>Old Fort</td>
+<td>NC</td>
+<td>USFS</td>
+<td>French Broad-Holston</td>
+</tr>
+<tr>
+<td>CLA2</td>
+<td align="right">2003</td>
+<td align="right">8</td>
+<td align="right">2</td>
+<td>ECONET</td>
+<td align="right">35.59158</td>
+<td align="right">-78.45889</td>
+<td align="right">250</td>
+<td>DAQ Clayton Profiler</td>
+<td>Johnston County</td>
+<td>Clayton</td>
+<td>NC</td>
+<td>NC DENR Air Quality</td>
+<td>Upper Neuse</td>
+</tr>
+<tr>
+<td>KEHO</td>
+<td align="right">2004</td>
+<td align="right">1</td>
+<td align="right">3</td>
+<td>AWOS</td>
+<td align="right">35.2555556</td>
+<td align="right">-81.6009972</td>
+<td align="right">847</td>
+<td>Shelby Municipal Airport</td>
+<td>Cleveland County</td>
+<td>Shelby</td>
+<td>NC</td>
+<td>FAA / Local Aviation</td>
+<td>Upper Broad</td>
+</tr>
+<tr>
+<td>N7MR</td>
+<td align="right">2004</td>
+<td align="right">1</td>
+<td align="right">6</td>
+<td>RAWS</td>
+<td align="right">35.8</td>
+<td align="right">-82.65</td>
+<td align="right">2171</td>
+<td>7 Mile Ridge</td>
+<td>Madison County</td>
+<td>Marshall</td>
+<td>NC</td>
+<td>State/Private Forestry</td>
+<td>French Broad-Holston</td>
+</tr>
+<tr>
+<td>K1A5</td>
+<td align="right">2004</td>
+<td align="right">1</td>
+<td align="right">7</td>
+<td>AWOS</td>
+<td align="right">35.222595</td>
+<td align="right">-83.4190439</td>
+<td align="right">2020</td>
+<td>Macon County Airport</td>
+<td>Macon County</td>
+<td>Franklin</td>
+<td>NC</td>
+<td>FAA / Local Aviation</td>
+<td>Upper Little Tennessee</td>
+</tr>
+<tr>
+<td>KFFA</td>
+<td align="right">2004</td>
+<td align="right">1</td>
+<td align="right">15</td>
+<td>AWOS</td>
+<td align="right">36.0182228</td>
+<td align="right">-75.6712869</td>
+<td align="right">13</td>
+<td>First Flight Airport</td>
+<td>Dare County</td>
+<td>Kill Devil Hills</td>
+<td>NC</td>
+<td>FAA / Loacl Aviation</td>
+<td>Albemarle</td>
+</tr>
+<tr>
+<td>KONX</td>
+<td align="right">2004</td>
+<td align="right">2</td>
+<td align="right">24</td>
+<td>AWOS</td>
+<td align="right">36.3989292</td>
+<td align="right">-76.0163014</td>
+<td align="right">16</td>
+<td>Currituck County Airport</td>
+<td>Currituck County</td>
+<td>Currituck</td>
+<td>NC</td>
+<td>FAA / Local Aviation</td>
+<td>Albemarle</td>
+</tr>
+<tr>
+<td>310356</td>
+<td align="right">2004</td>
+<td align="right">7</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">34.69972</td>
+<td align="right">-76.73806</td>
+<td align="right">4</td>
+<td>Atlantic Beach Wtp</td>
+<td>Carteret County</td>
+<td>Atlantic Beach</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Bogue-Core Sounds</td>
+</tr>
+<tr>
+<td>FRYI</td>
+<td align="right">2004</td>
+<td align="right">11</td>
+<td align="right">16</td>
+<td>ECONET</td>
+<td align="right">35.39357</td>
+<td align="right">-82.77427</td>
+<td align="right">5320</td>
+<td>Frying Pan Mountain</td>
+<td>Haywood County</td>
+<td>Boyd</td>
+<td>NC</td>
+<td>NC DENR Air Quality</td>
+<td>Pigeon</td>
+</tr>
+<tr>
+<td>NDRO</td>
+<td align="right">2004</td>
+<td align="right">12</td>
+<td align="right">5</td>
+<td>RAWS</td>
+<td align="right">35.03</td>
+<td align="right">-79.5</td>
+<td align="right">400</td>
+<td>Drowning Creek</td>
+<td>Richmond County</td>
+<td>Hoffman</td>
+<td>NC</td>
+<td>State/Private Forestry</td>
+<td>Lumber</td>
+</tr>
+<tr>
+<td>NELI</td>
+<td align="right">2004</td>
+<td align="right">12</td>
+<td align="right">30</td>
+<td>RAWS</td>
+<td align="right">36.35</td>
+<td align="right">-76.28</td>
+<td align="right">15</td>
+<td>Elizabeth City</td>
+<td>Pasquotank County</td>
+<td>Elizabeth City</td>
+<td>NC</td>
+<td>US/State Forest Service</td>
+<td>Albemarle-Chowan</td>
+</tr>
+<tr>
+<td>313152</td>
+<td align="right">2005</td>
+<td align="right">3</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.3125</td>
+<td align="right">-81.98889</td>
+<td align="right">849</td>
+<td>Forest City 8 W</td>
+<td>Rutherford County</td>
+<td>Rutherfordton</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper Broad</td>
+</tr>
+<tr>
+<td>318450</td>
+<td align="right">2005</td>
+<td align="right">4</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.395</td>
+<td align="right">-76.32611</td>
+<td align="right">3</td>
+<td>Swanquarter Ferry</td>
+<td>Hyde County</td>
+<td>Belhaven</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Pamlico Sound</td>
+</tr>
+<tr>
+<td>316686</td>
+<td align="right">2005</td>
+<td align="right">5</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">36.15556</td>
+<td align="right">-80.36972</td>
+<td align="right">950</td>
+<td>Pfafftown</td>
+<td>Forsyth County</td>
+<td>Winston-Salem</td>
+<td>NC</td>
+<td> </td>
+<td>Upper Yadkin</td>
+</tr>
+<tr>
+<td>318380</td>
+<td align="right">2005</td>
+<td align="right">5</td>
+<td align="right">24</td>
+<td>COOP</td>
+<td align="right">34.44778</td>
+<td align="right">-77.57389</td>
+<td align="right">24</td>
+<td>Surf City</td>
+<td>Pender County</td>
+<td>Surf City</td>
+<td>NC</td>
+<td> </td>
+<td>New</td>
+</tr>
+<tr>
+<td>NCOW</td>
+<td align="right">2005</td>
+<td align="right">12</td>
+<td align="right">31</td>
+<td>RAWS</td>
+<td align="right">35.48</td>
+<td align="right">-83.33</td>
+<td align="right">2390</td>
+<td>Cow Mountain</td>
+<td>Swain County</td>
+<td>Cow Mountain</td>
+<td>NC</td>
+<td>US/State Forest Service</td>
+<td>Upper Tennessee</td>
+</tr>
+<tr>
+<td>KSIF</td>
+<td align="right">2006</td>
+<td align="right">2</td>
+<td align="right">9</td>
+<td>AWOS</td>
+<td align="right">36.4372222</td>
+<td align="right">-79.8510111</td>
+<td align="right">693</td>
+<td>Rockingham-Shiloh Airport</td>
+<td>Rockingham County</td>
+<td>Reidsville</td>
+<td>NC</td>
+<td>FAA / Local Aviation</td>
+<td>Upper Dan</td>
+</tr>
+<tr>
+<td>NCAT</td>
+<td align="right">2006</td>
+<td align="right">2</td>
+<td align="right">23</td>
+<td>ECONET</td>
+<td align="right">36.06733</td>
+<td align="right">-79.73447</td>
+<td align="right">792</td>
+<td>NC A&amp;T SU Research Farm</td>
+<td>Guilford County</td>
+<td>Greensboro</td>
+<td>NC</td>
+<td>NCA&amp;T, NC Agriculture Research Service</td>
+<td>Haw</td>
+</tr>
+<tr>
+<td>BUCK</td>
+<td align="right">2006</td>
+<td align="right">9</td>
+<td align="right">20</td>
+<td>ECONET</td>
+<td align="right">36.46955</td>
+<td align="right">-76.7609</td>
+<td align="right">25</td>
+<td>Buckland Elementary</td>
+<td>Gates County</td>
+<td>Gates</td>
+<td>NC</td>
+<td>NC Agriculture Research Service</td>
+<td>Chowan</td>
+</tr>
+<tr>
+<td>KAFP</td>
+<td align="right">2006</td>
+<td align="right">11</td>
+<td align="right">28</td>
+<td>AWOS</td>
+<td align="right">35.0206389</td>
+<td align="right">-80.0771111</td>
+<td align="right">300</td>
+<td>Anson County Airport</td>
+<td>Anson County</td>
+<td>Wadesboro</td>
+<td>NC</td>
+<td>FAA / Local Aviation</td>
+<td>Upper Pee Dee</td>
+</tr>
+<tr>
+<td>317170</td>
+<td align="right">2007</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.13111</td>
+<td align="right">-76.91528</td>
+<td align="right">45</td>
+<td>Reelsboro</td>
+<td>Pamlico County</td>
+<td>NULL</td>
+<td>NC</td>
+<td> </td>
+<td>Lower Neuse</td>
+</tr>
+<tr>
+<td>LILE</td>
+<td align="right">2007</td>
+<td align="right">5</td>
+<td align="right">18</td>
+<td>ECONET</td>
+<td align="right">34.97043</td>
+<td align="right">-79.91771</td>
+<td align="right">456</td>
+<td>NC Electric Cooperative Anson Peaking Plant</td>
+<td>Anson County</td>
+<td>Lilesville</td>
+<td>NC</td>
+<td>NC Electric Cooperatives</td>
+<td>Lower Pee Dee</td>
+</tr>
+<tr>
+<td>HAML</td>
+<td align="right">2007</td>
+<td align="right">11</td>
+<td align="right">27</td>
+<td>ECONET</td>
+<td align="right">34.84207</td>
+<td align="right">-79.7384</td>
+<td align="right">336</td>
+<td>Hamlet Tower</td>
+<td>Richmond County</td>
+<td>Hamlet</td>
+<td>NC</td>
+<td>NC Electric Cooperatives</td>
+<td>Lower Pee Dee</td>
+</tr>
+<tr>
+<td>319461</td>
+<td align="right">2008</td>
+<td align="right">4</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">34.1425</td>
+<td align="right">-77.87861</td>
+<td align="right">30</td>
+<td>Wilmington 7 Se</td>
+<td>New Hanover County</td>
+<td>Wilmington</td>
+<td>NC</td>
+<td> </td>
+<td>New</td>
+</tr>
+<tr>
+<td>MITC</td>
+<td align="right">2008</td>
+<td align="right">6</td>
+<td align="right">26</td>
+<td>ECONET</td>
+<td align="right">35.7585</td>
+<td align="right">-82.2712</td>
+<td align="right">6200</td>
+<td>Mount Mitchell State Park</td>
+<td>Yancey County</td>
+<td>Mount Mitchell</td>
+<td>NC</td>
+<td>NC DENR Air Quality</td>
+<td>Nolichucky</td>
+</tr>
+<tr>
+<td>WILD</td>
+<td align="right">2008</td>
+<td align="right">9</td>
+<td align="right">25</td>
+<td>ECONET</td>
+<td align="right">34.7658</td>
+<td align="right">-78.10117</td>
+<td align="right">56</td>
+<td>Williamsdale Field Lab</td>
+<td>Duplin County</td>
+<td>Wallace</td>
+<td>NC</td>
+<td>NC Agricultural Research Service</td>
+<td>Northeast Cape Fear</td>
+</tr>
+<tr>
+<td>TAYL</td>
+<td align="right">2008</td>
+<td align="right">11</td>
+<td align="right">6</td>
+<td>ECONET</td>
+<td align="right">35.9139</td>
+<td align="right">-81.19087</td>
+<td align="right">1167</td>
+<td>Taylorsville Tower</td>
+<td>Alexander County</td>
+<td>Taylorsville</td>
+<td>NC</td>
+<td>Renaissance Computing Institute (RENCI)</td>
+<td>Upper Catawba</td>
+</tr>
+<tr>
+<td>DURH</td>
+<td align="right">2008</td>
+<td align="right">11</td>
+<td align="right">12</td>
+<td>ECONET</td>
+<td align="right">36.02896</td>
+<td align="right">-78.85851</td>
+<td align="right">332</td>
+<td>North Durham Water Reclamation Facility</td>
+<td>Durham County</td>
+<td>Durham</td>
+<td>NC</td>
+<td>City of Durham</td>
+<td>Upper Neuse</td>
+</tr>
+<tr>
+<td>BURN</td>
+<td align="right">2008</td>
+<td align="right">12</td>
+<td align="right">17</td>
+<td>ECONET</td>
+<td align="right">35.91892</td>
+<td align="right">-82.26035</td>
+<td align="right">2702</td>
+<td>Burnsville Tower</td>
+<td>Yancey County</td>
+<td>Burnsville</td>
+<td>NC</td>
+<td>Renaissance Computing Institute (RENCI)</td>
+<td>Nolichucky</td>
+</tr>
+<tr>
+<td>318066</td>
+<td align="right">2009</td>
+<td align="right">2</td>
+<td align="right">3</td>
+<td>COOP</td>
+<td align="right">35.455</td>
+<td align="right">-77.66667</td>
+<td align="right">41</td>
+<td>Snow Hill Wwtp</td>
+<td>Greene County</td>
+<td>Snow Hill</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Contentnea</td>
+</tr>
+<tr>
+<td>316096</td>
+<td align="right">2009</td>
+<td align="right">3</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">34.77639</td>
+<td align="right">-76.87694</td>
+<td align="right">30</td>
+<td>Newport Morehead City</td>
+<td>Carteret County</td>
+<td>Newport</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Bogue-Core Sounds</td>
+</tr>
+<tr>
+<td>KIXA</td>
+<td align="right">2009</td>
+<td align="right">6</td>
+<td align="right">25</td>
+<td>AWOS</td>
+<td align="right">36.3297917</td>
+<td align="right">-77.6352306</td>
+<td align="right">145</td>
+<td>Halifax-Northampton Regional Airport</td>
+<td>Halifax County</td>
+<td>Roanoke Rapids</td>
+<td>NC</td>
+<td> </td>
+<td>Roanoke</td>
+</tr>
+<tr>
+<td>NEWL</td>
+<td align="right">2009</td>
+<td align="right">10</td>
+<td align="right">22</td>
+<td>ECONET</td>
+<td align="right">35.40981</td>
+<td align="right">-80.23748</td>
+<td align="right">585</td>
+<td>North Stanly Middle School</td>
+<td>Stanly County</td>
+<td>New London</td>
+<td>NC</td>
+<td>Renaissance Computing Institute (RENCI)</td>
+<td>Rocky</td>
+</tr>
+<tr>
+<td>310308</td>
+<td align="right">2010</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.49444</td>
+<td align="right">-82.61417</td>
+<td align="right">2151</td>
+<td>Asheville 8 Ssw</td>
+<td>Buncombe County</td>
+<td>Bent Creek</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Upper French Broad</td>
+</tr>
+<tr>
+<td>313336</td>
+<td align="right">2010</td>
+<td align="right">4</td>
+<td align="right">19</td>
+<td>COOP</td>
+<td align="right">35.25111</td>
+<td align="right">-75.60472</td>
+<td align="right">0</td>
+<td>Frisco 2nne</td>
+<td>Dare County</td>
+<td>Hatteras</td>
+<td>NC</td>
+<td> </td>
+<td>Pamlico</td>
+</tr>
+<tr>
+<td>311165</td>
+<td align="right">2010</td>
+<td align="right">4</td>
+<td align="right">28</td>
+<td>COOP</td>
+<td align="right">35.4467</td>
+<td align="right">-83.4623</td>
+<td align="right">1985</td>
+<td>BRYSON CITY 4</td>
+<td>Swain County</td>
+<td>NULL</td>
+<td>NC</td>
+<td> </td>
+<td>Upper Tennessee</td>
+</tr>
+<tr>
+<td>311429</td>
+<td align="right">2010</td>
+<td align="right">7</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.95333</td>
+<td align="right">-79.23056</td>
+<td align="right">525</td>
+<td>Cane Creek Rsvr</td>
+<td>Orange County</td>
+<td>Saxapahaw</td>
+<td>NC</td>
+<td>NWS</td>
+<td>Haw</td>
+</tr>
+<tr>
+<td>315930</td>
+<td align="right">2011</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td>COOP</td>
+<td align="right">35.1376</td>
+<td align="right">-77.9891</td>
+<td align="right">162</td>
+<td>MOUNT OLIVE 6SE</td>
+<td>Duplin County</td>
+<td>NULL</td>
+<td>NC</td>
+<td> </td>
+<td>Cape Fear</td>
+</tr>
+<tr>
+<td>NJES</td>
+<td align="right">2011</td>
+<td align="right">4</td>
+<td align="right">8</td>
+<td>RAWS</td>
+<td align="right">36.0528</td>
+<td align="right">-82.3792</td>
+<td align="right">3634</td>
+<td>Jessen Station</td>
+<td>Yancey County</td>
+<td>Pisgah National Forest</td>
+<td>NC</td>
+<td>State/Private Forestry</td>
+<td>French Broad-Holston</td>
+</tr>
+<tr>
+<td>NIPS</td>
+<td align="right">2011</td>
+<td align="right">7</td>
+<td align="right">21</td>
+<td>RAWS</td>
+<td align="right">35.6494</td>
+<td align="right">-82.9131</td>
+<td align="right">5291</td>
+<td>IP Station</td>
+<td>Haywood County</td>
+<td>NULL</td>
+<td>NC</td>
+<td>State/Private Forestry</td>
+<td>French Broad-Holston</td>
+</tr>
+<tr>
+<td>KSCR</td>
+<td align="right">2012</td>
+<td align="right">1</td>
+<td align="right">12</td>
+<td>AWOS</td>
+<td align="right">35.7044639</td>
+<td align="right">-79.5040306</td>
+<td align="right">614</td>
+<td>Siler City Municipal Airport</td>
+<td>Chatham County</td>
+<td>Siler City</td>
+<td>NC</td>
+<td>FAA / Local Aviation</td>
+<td>Deep</td>
+</tr>
+<tr>
+<td>SPRU</td>
+<td align="right">2013</td>
+<td align="right">2</td>
+<td align="right">7</td>
+<td>ECONET</td>
+<td align="right">35.901</td>
+<td align="right">-82.0589</td>
+<td align="right">2746</td>
+<td>Spruce Pine Tower</td>
+<td>Mitchell County</td>
+<td>Spruce Pine</td>
+<td>NC</td>
+<td>Unimin Crystal</td>
+<td>North Toe</td>
+</tr>
+<tr>
+<td>JEFF</td>
+<td align="right">2013</td>
+<td align="right">8</td>
+<td align="right">14</td>
+<td>ECONET</td>
+<td align="right">36.40331</td>
+<td align="right">-81.46346</td>
+<td align="right">4608</td>
+<td>Mt. Jefferson Tower</td>
+<td>Ashe County</td>
+<td>West Jefferson</td>
+<td>NC</td>
+<td>Division of Air Quality</td>
+<td>New</td>
+</tr>
+<tr>
+<td>NWRR</td>
+<td align="right">2014</td>
+<td align="right">3</td>
+<td align="right">4</td>
+<td>RAWS</td>
+<td align="right">36.36138878</td>
+<td align="right">-78.09935</td>
+<td align="right">435</td>
+<td>Warrenton</td>
+<td>Warren County</td>
+<td>Warrenton</td>
+<td>NC</td>
+<td>State/Private Forestry</td>
+<td>Tar-Pamilco</td>
+</tr>
+<tr>
+<td>NLUM</td>
+<td align="right">2014</td>
+<td align="right">5</td>
+<td align="right">2</td>
+<td>RAWS</td>
+<td align="right">34.5966943</td>
+<td align="right">-79.0878887</td>
+<td align="right">137</td>
+<td>Lumberton</td>
+<td>Robeson County</td>
+<td>Lumberton</td>
+<td>NC</td>
+<td>State/Private Forestry</td>
+<td>Lumber</td>
+</tr>
+<tr>
+<td>SPIN</td>
+<td align="right">2014</td>
+<td align="right">8</td>
+<td align="right">14</td>
+<td>ECONET</td>
+<td align="right">35.3348</td>
+<td align="right">-81.9125</td>
+<td align="right">1078</td>
+<td>Spindale Tower</td>
+<td>Rutherford County</td>
+<td>Spindale</td>
+<td>NC</td>
+<td>Isothermal Community College</td>
+<td>Broad</td>
+</tr>
+<tr>
+<td>BALD</td>
+<td align="right">2015</td>
+<td align="right">6</td>
+<td align="right">23</td>
+<td>ECONET</td>
+<td align="right">33.845833</td>
+<td align="right">-77.965833</td>
+<td align="right">30</td>
+<td>Bald Head Island Conservancy</td>
+<td>Brunswick County</td>
+<td>Bald Head Island</td>
+<td>NC</td>
+<td>Bald Head Island Conservancy</td>
+<td>Cape Fear</td>
+</tr>
+<tr>
+<td>BAHA</td>
+<td align="right">2018</td>
+<td align="right">2</td>
+<td align="right">1</td>
+<td>ECONET</td>
+<td align="right">36.17492</td>
+<td align="right">-78.8086</td>
+<td align="right">491</td>
+<td>Butner Beef Cattle Laboratory</td>
+<td>Durham County</td>
+<td>Bahama</td>
+<td>NC</td>
+<td>NC Ag. Research Service</td>
+<td>Neuse</td>
+</tr>
+<tr>
+<td>CHAP</td>
+<td align="right">2018</td>
+<td align="right">7</td>
+<td align="right">6</td>
+<td>ECONET</td>
+<td align="right">35.934</td>
+<td align="right">-79.064</td>
+<td align="right">511</td>
+<td>Horace Williams Airport</td>
+<td>Orange County</td>
+<td>Chapel Hill</td>
+<td>NC</td>
+<td>UNC Chapel Hill</td>
+<td>Cape Fear</td>
+</tr>
+</tbody></table>
