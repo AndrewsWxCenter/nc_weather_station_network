@@ -13,7 +13,7 @@
     <script>
 
 function init() {
-    var sorter = tsorter.create('cwfa');
+    var sorter = tsorter.create('ncwsn');
 
 }
 
