@@ -63,7 +63,7 @@ addFunctionOnWindowLoad(GetClock);
 
 <thead>
 <tr>
-<th>Station ID</th>
+<th>Station</th>
 <th data-tsorter="numeric">Year</th>
 <th data-tsorter="numeric">Month</th>
 <th data-tsorter="numeric">Day</th>
